@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb37fbbc-add1-4571-a244-5ea943eaa428" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/component/jwpagefactory/about.htm" beforeDir="false" afterPath="$PROJECT_DIR$/about.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/component/jwpagefactory/contact.htm" beforeDir="false" afterPath="$PROJECT_DIR$/contact.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/component/jwpagefactory/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/component/jwpagefactory/index2.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/component/jwpagefactory/news.htm" beforeDir="false" afterPath="$PROJECT_DIR$/news.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/component/jwpagefactory/show.htm" beforeDir="false" afterPath="$PROJECT_DIR$/show.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/carousel/assets/js/bubble-canvas-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/carousel/assets/js/bubble-canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/full_page/assets/css/liMarquee-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/full_page/assets/css/liMarquee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/navigation_new/assets/js/jquery-3.7.0.min-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/navigation_new/assets/js/jquery-3.7.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/navigation_new/assets/js/jquery.mmenu-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/navigation_new/assets/js/jquery.mmenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/text_block/assets/font/SimSun-01-1.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/addons/text_block/assets/font/SimSun-01.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/animate.min-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/font-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/font-awesome-5.min-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/font-awesome-5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/font-awesome-v4-shims-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/font-awesome-v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/jwpagecontainer-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/jwpagecontainer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/jwpagefactory-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/jwpagefactory.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/magnific-popup-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/swiper-bundle.min-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/swiper-bundle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/zxf_page-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/css/zxf_page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/jquery.magnific-popup.min-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/jquery.parallax-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/jquery.parallax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/jwpagefactory-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/jwpagefactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/newnav-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/newnav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/statistics-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/statistics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/swiper-bundle.min-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/swiper-bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/js/zxf_page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-brands-400-1.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-brands-400-1.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-regular-400-1.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-regular-400-1.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-solid-900-1.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-solid-900-1.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/components/com_jwpagefactory/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/media/jui/js/ccdp.min-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/media/jui/js/ccdp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/media/jui/js/jquery-migrate.min-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/media/jui/js/jquery-migrate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/media/jui/js/jquery-noconflict-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/media/jui/js/jquery-noconflict.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/media/system/js/core-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/media/system/js/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/bootstrap.min-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/custom-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/fa-v4-shims-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/fa-v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/font-awesome.min-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/presets/default-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/presets/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/template-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/css/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-brands-400-1.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-brands-400-1.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-regular-400-1.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-regular-400-1.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-solid-900-1.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-solid-900-1.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/fonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/js/bootstrap.min-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/js/jquery.min-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/js/main-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/js/popper.min-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijzt.china9.cn/templates/shaper_helixultimate/js/popper.min.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2STM79h8i6SlF3i7pxYNzer95Ap" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\charjump\jiheyulong" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb37fbbc-add1-4571-a244-5ea943eaa428" name="Default Changelist" comment="" />
+      <created>1689165947434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689165947434</updated>
+      <workItem from="1689165948581" duration="2463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="354" key="#Deployment" timestamp="1689166074871">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="872" y="354" key="#Deployment/-1920.148.1920.1032/0.0.2560.1392@0.0.2560.1392" timestamp="1689166074871" />
+    <state x="923" y="353" key="#Options" timestamp="1689167044225">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="923" y="353" key="#Options/-1920.148.1920.1032/0.0.2560.1392@0.0.2560.1392" timestamp="1689167044225" />
+  </component>
+</project>
